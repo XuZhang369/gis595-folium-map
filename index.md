@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Hudson County EV Charging Access
 ---
 
